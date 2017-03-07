@@ -5,7 +5,7 @@
  */
 package Controlador;
 
-import Dao.ConexionBBDD;
+import Dao.ConexionBBDD;//Efefefefefefe
 import Dao.Operaciones;
 import Modelo.Votantes;
 import java.io.IOException;
