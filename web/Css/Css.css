@@ -1,0 +1,73 @@
+body{
+    margin: 0 auto;
+    background-color: #A4A4A4;
+    font-family: sans-serif; 
+}
+h1{
+    color: #610B0B;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+h2{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+table{
+    background-image: url("Images/login.jpg");
+    background-size: cover;
+    margin: 0 auto;
+    border: 4px solid #610B0B;
+    width: 300px;
+    height: 200px;
+    border-collapse:collapse;
+}
+td{
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 30px;
+    border: 4px solid #610B0B;
+    text-align: center;
+}
+.botonvoto{
+    width: 300px;
+    height: 60px;
+}
+.botonindex {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  -webkit-box-shadow: 3px 4px 8px #5c0e0e;
+  -moz-box-shadow: 3px 4px 8px #5c0e0e;
+  box-shadow: 3px 4px 8px #5c0e0e;
+  font-family: Arial;
+  color: #fafafa;
+  font-size: 20px;
+  padding: 10px;
+  background: #828d94;
+  border: solid #750e0e 3px;
+  text-decoration: none;
+}
+
+.botonindex:hover {
+  background: #404040;
+  text-decoration: none;
+}
+.headerindex{
+  background-color: #610B0B;
+  height: 100px;
+}
+.h1index{
+    color: #A4A4A4;
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 0%;
+}
+.sectionindex{
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 1%;
+}
+
